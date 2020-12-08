@@ -16,4 +16,6 @@ small producers and buyers as well as few resources such as equipment to determi
 <p> Many mines are abandoned within a short time. They are typically 50 meters deep and extremely dangerous. They can cause physical injuries to people and
  animals, along with releasing toxic chemicals.</p>
 
-<p> This map application displays Ruby, Emerald, and Sapphire mines globally. 
+<p> This map application displays Ruby, Emerald, and Sapphire mines globally. These features can be compared to each other, the general physical geography and
+ major population centers. 
+</p>
