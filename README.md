@@ -4,17 +4,16 @@ Rubies, Emeralds, and Sapphires
 [Treasure Map-Karyn Reid](https://reidka2909.github.io/Gemstone-Mines/)
 
 ### [Article Summary](https://www.iied.org/sapphire-mines-become-forests) 
-Madagascar, 2017 - 
-ecologically diverse
-poor 75% blow the poverty line
-Sapphire mined artisanlly
-  ASM - infornal for fear of authority
-    Scams and unfair pricing
-      Miners have little to no training or expertise in evaluating the grade, setting a price and no rugulation or inforcement of fair pricing.
-      Most gemstone markets are unregulated. 
-      Diverising stone profile
-      connection btw small producer and buyer
-      resources (equipment)
+<p> Madagascar, 2017 - Madagascar is learning from their past and each other. Artisan samll-scale mining (ASM) has devoured the landscape of Madagascar
+since the 90's. ASM operations are in search for sapphires and sweep in over night. This form of mining is largely informal and unregulated for fear 
+of authority and loss of income. These miners are not large well accomidated companies. They are typically poeple working to survive. Approximently 
+75% of Madigascar's population is living below the poverty line. </p>
+
+<p> Miners have little to no training or expertise in evaluating the grade, setting a price and no rugulation or inforcement of fair pricing. Most gemstone 
+markets are unregulated. These miners experience scams and unfair pricing do to little education about diversifing they stones they mine, a connection between 
+small producers and buyers as well as few resources such as equipment to determine the quality of the stones. </p>
+   
+ 
     Positive - Pride
   deep and dangerous abandonded mines (50 meters deep ~54 yards)
     poor health and safty practices
