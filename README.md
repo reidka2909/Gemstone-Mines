@@ -12,14 +12,8 @@ of authority and loss of income. These miners are not large well accomidated com
 <p> Miners have little to no training or expertise in evaluating the grade, setting a price and no rugulation or inforcement of fair pricing. Most gemstone 
 markets are unregulated. These miners experience scams and unfair pricing do to little education about diversifing they stones they mine, a connection between 
 small producers and buyers as well as few resources such as equipment to determine the quality of the stones. </p>
-   
- <p> Many mines are abandoned within a short time. They are typically 50 meters deep and extremely dangerous. They can cause physical injuries to people and animals, along with releasing toxic chemicals.
-</p>
- Positive - Pride
- Deforestation
- 
- refilling pits, rehabilitating lands, planting trees
- Plant Nursey
-  produces around 10,000 plants per year
-  schools, churchs, farms and even Madagascar National Parks
-strenghten community ties
+  
+<p> Many mines are abandoned within a short time. They are typically 50 meters deep and extremely dangerous. They can cause physical injuries to people and
+ animals, along with releasing toxic chemicals.</p>
+
+<p> This map application displays Ruby, Emerald, and Sapphire mines globally. 
