@@ -13,12 +13,9 @@ of authority and loss of income. These miners are not large well accomidated com
 markets are unregulated. These miners experience scams and unfair pricing do to little education about diversifing they stones they mine, a connection between 
 small producers and buyers as well as few resources such as equipment to determine the quality of the stones. </p>
    
- 
-    Positive - Pride
-  deep and dangerous abandonded mines (50 meters deep ~54 yards)
-    poor health and safty practices
-    people and animals such as goats
-      physical injury & toxic chemicals
+ <p> Many mines are abandoned within a short time. They are typically 50 meters deep and extremely dangerous. They can cause physical injuries to people and animals, along with releasing toxic chemicals.
+</p>
+ Positive - Pride
  Deforestation
  
  refilling pits, rehabilitating lands, planting trees
