@@ -1,7 +1,7 @@
 #  :gem:Gemstone-Mines
 Rubies, Emeralds, and Sapphires
 
-[Treasure Map-Karyn Reid](https://reidka2909.github.io/Gemstone-Mines/)
+[Treasure Map-Karyn Reid](https://github.com/reidka2909/Gemstone-Mines.git)
 
 ### [Article Summary](https://www.iied.org/sapphire-mines-become-forests) 
 <p> Madagascar, 2017 - Madagascar is learning from their past and each other. Artisan samll-scale mining (ASM) has devoured the landscape of Madagascar
